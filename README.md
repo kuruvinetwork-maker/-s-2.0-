@@ -1,4 +1,4 @@
-<h1 align="center"><b> 🕊️⃝‌ᴘʙx ❤️ᥫ᭡፝֟፝֟ 2.0</b></h1>
+<h1 align="center"><b> ᡣ𐭩 ེ𝚱𝛖ɭꝛ᪳ᷱ𝛖𝐯𝛊𝁜ֶָ֪֯ 𝁘💋 2.0</b></h1>
 
 <p align="center"><img src="https://telegra.ph/file/fd8a6715f04182086b49e.jpg" alt="PbxBad"></p>
 
@@ -25,7 +25,7 @@
 
 ---
 
-## Deploying PBXBOT 2.0 on Heroku
+## Deploying kuruvi 2.0 on Heroku
 
 Follow these 4 straightforward steps to deploy PbxBot on Heroku:
 
